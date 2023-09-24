@@ -1,3 +1,3 @@
 # Exercise
 
-Hi there.
+Hi there!
