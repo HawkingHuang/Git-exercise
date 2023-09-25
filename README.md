@@ -8,4 +8,6 @@ Watch tutorial on YouTube.
 
 ## Learning Git is painful
 
-Hahaha
+Hahahaha
+
+It's a mistake.
